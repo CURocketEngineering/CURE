@@ -1,9 +1,0 @@
-[submodule "firefly_chi"]
-	path = avionics/firefly_chi
-	url = https://github.com/CURocketEngineering/firefly_chi.git
-[submodule "dashboard"]
-	path = avionics/dashboard
-	url = https://github.com/CURocketEngineering/dashboard
-[submodule "team"]
-	path = team
-	url = https://github.com/CURocketEngineering/team.git
