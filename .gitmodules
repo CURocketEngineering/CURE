@@ -1,0 +1,9 @@
+[submodule "team"]
+	path = team
+	url = https://github.com/CURocketEngineering/team
+[submodule "avionics/firefly_chi"]
+	path = avionics/firefly_chi
+	url = https://github.com/curocketengineering/firefly_chi
+[submodule "avionics/dashboard"]
+	path = avionics/dashboard
+	url = https://github.com/curocketengineering/dashboard
